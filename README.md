@@ -1,4 +1,4 @@
-# Creating Multimodal AI Agent for Enhanced Content Understanding
+# Creating Multimodal AI Agent for Creating Papers
 
 ## Overview
 
